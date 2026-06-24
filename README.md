@@ -2,7 +2,7 @@
 
 **ComputAI** is an AI-powered computational biology assistant that generates research-grade hypotheses for early-stage drug discovery and drug repurposing. Given a candidate compound and a biological target, it produces structured scientific reports covering binding mechanisms, molecular pathways, repurposing potential, and predicted safety profiles.
 
-> Try the app: [ComputAI on PartyRock](https://partyrock.aws/u/Only1Brenna/61fhzWBKy/ComputAI%253A-A-Drug-Repurposing-Discovery-App)
+> Try the app: [ComputAI: A Drug Repurposing Discovery App](https://partyrock.aws/u/Only1Brenna/61fhzWBKy/ComputAI%253A-A-Drug-Repurposing-Discovery-App)
 
 ---
 
