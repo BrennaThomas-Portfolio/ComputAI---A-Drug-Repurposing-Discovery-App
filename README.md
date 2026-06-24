@@ -52,7 +52,7 @@ The goal is to give students and researchers a fast, structured starting point f
 
 ## Intended Audience
 
-- Undergraduate and graduate biology, pharmacology, and biochemistry students
+- Undergraduate and graduate Biology, Biochemistry, Biotechnology, Pharmacology, Medicinal Chemistry students
 - Early-stage drug discovery researchers
 - Computational biology enthusiasts exploring repurposing hypotheses
 
